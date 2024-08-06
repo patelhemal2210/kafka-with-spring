@@ -1,2 +1,2 @@
-# kafka-with-java
-Java code to work with Kafka.
+# kafka-with-spring
+Java code to work with Spring.
